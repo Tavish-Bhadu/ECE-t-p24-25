@@ -22,3 +22,6 @@ Date: 24 July 2024
 Description:
 a timed LED sequence to simulate a traffic light system, green for 5s, yellow for 2s and green for 5s
 tinkercad link : https://www.tinkercad.com/things/boxayh464u2-epic-jofo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fcircuits
+
+Assing 4: Detect fire using a flame sensor and trigger a buzzer and LED.
+tinkercad link: https://www.tinkercad.com/things/2vSnkjIJQSm-neat-gogo/editel?returnTo=%2Fthings%2F2vSnkjIJQSm-neat-gogo
